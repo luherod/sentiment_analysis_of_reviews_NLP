@@ -8,31 +8,31 @@ This project focuses on developing a sentiment analysis model using natural lang
 
 * Python version: 3.10.16
 
-* Environment requirements: see [requirements.txt]()
+* Environment requirements: see [requirements.txt](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/requirements.txt)
 
 ## Files description:
 
-* [sentiment_analysis_of_reviews.ipynb](): jupyter notebook with the code of the model development.
+* [sentiment_analysis_of_reviews.ipynb](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/sentiment_analysis_of_reviews.ipynb): jupyter notebook with the code of the model development.
 
-* [sentiment_analysis_utils.py](): Python utility file containing functions used in the notebook.
+* [sentiment_analysis_utils.py](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/sentiment_analysis_utils.py): Python utility file containing functions used in the notebook.
 
-* [Cell_Phones_and_Accessories_5.json](): raw dataframe used for the project. Source: [https://jmcauley.ucsd.edu/data/amazon/](https://jmcauley.ucsd.edu/data/amazon/)
+* [Cell_Phones_and_Accessories_5.json](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/Cell_Phones_and_Accessories_5.json): raw dataframe used for the project. Source: [https://jmcauley.ucsd.edu/data/amazon/](https://jmcauley.ucsd.edu/data/amazon/)
 
-* [cleaned_reviews.csv](): Dataset exported after a preliminary preprocessing previous to data exploration.
+* [cleaned_reviews.csv](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/cleaned_reviews.csv): Dataset exported after a preliminary preprocessing previous to data exploration.
 
-* [cleaned_X_test_df.csv](): Test features dataset after the complete preprocessing.
+* [cleaned_X_test_df.csv](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/cleaned_X_test_df.csv): Test features dataset after the complete preprocessing.
 
-* [cleaned_X_train_df.csv](): Train features dataset after the complete preprocessing.
+* [cleaned_X_train_df.csv](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/cleaned_X_train_df.csv): Train features dataset after the complete preprocessing.
 
-* [cleaned_y_test_df.csv](): Test sentiment labels dataset after the complete preprocessing.
+* [cleaned_y_test_df.csv](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/cleaned_y_test_df.csv): Test sentiment labels dataset after the complete preprocessing.
 
-* [cleaned_y_train_df.csv](): Train sentiment labels dataset after the complete preprocessing.
+* [cleaned_y_train_df.csv](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/cleaned_y_train_df.csv): Train sentiment labels dataset after the complete preprocessing.
 
-* [w2v_model.pkl](): Word2Vec model used for generation of word similarity clusters
+* [w2v_model.pkl](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/w2v_model.pkl): Word2Vec model used for generation of word similarity clusters
 
-* [best_rf_model.pkl]():  Best-trained Random Forest model selected by GridSearchCV.
+* [best_rf_model.pkl](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/best_rf_model.pkl):  Best-trained Random Forest model selected by GridSearchCV.
 
-* [best_svc_model.pkl]():  Best-trained SVC model selected by GridSearchCV.
+* [best_svc_model.pkl](https://github.com/luherod/sentiment_analysis_of_reviews_NLP/blob/main/best_svc_model.pkl):  Best-trained SVC model selected by GridSearchCV.
 
 ## Author
 
